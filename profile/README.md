@@ -2,16 +2,18 @@
 
 Building intelligent software that helps people learn, perform, and make better decisions.
 
+Focused on AI-powered SaaS applications, quality engineering, and modern product development.
+
 ## Products
 
 ### AlignFit
-AI-powered fitness, nutrition, recovery, and coaching platform focused on helping users achieve their health and performance goals.
+AI-powered fitness, nutrition, recovery, and coaching platform currently in active development and user acceptance testing.
 
 ### ClassForge
-AI-assisted education platform designed to help educators streamline lesson planning, content creation, and classroom preparation.
+AI-assisted education platform focused on lesson planning, educator productivity, and classroom preparation.
 
 ### LeagueOS
-Fantasy sports franchise management platform currently in design and development, extending traditional fantasy sports with ownership, contracts, salary caps, and league operations.
+Fantasy sports franchise management platform currently in early-stage design and development.
 
 ---
 
